@@ -1,4 +1,14 @@
-## Hi there 👋
+## Holaa!!
+Bienvenido a mi perfil de Git Hub, puedes obsevar mis proyectos, practicas y experiencias en mis repositorios
+
+Por lo general yo trabajo con:
+- JavaScript
+- TypeScript
+- Python
+- PHP
+
+Así como he ocupado diversos Frameworks como
+- 
 
 <!--
 **GabrielGLuna/GabrielGLuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
