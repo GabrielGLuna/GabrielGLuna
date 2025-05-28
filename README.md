@@ -1,9 +1,3 @@
-        </style>
-        <text x="10" y="60" class="text">Me gusta programar, que sepa es diferente</text>
-    </svg>
-    </p>
-
-
 # Holaa!!
 Bienvenido a mi perfil de Git Hub, puedes obsevar mis proyectos, practicas y experiencias en mis repositorios
 <p align="center">
