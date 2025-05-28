@@ -1,23 +1,4 @@
-    
-<p align="center">
-    <svg width="100%" height="100" viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg">
-        <style>
-        .text {
-            font: bold 32px 'Courier New', monospace;
-            fill: none;
-            stroke: #00ffff;
-            stroke-width: 1;
-            stroke-dasharray: 1000;
-            stroke-dashoffset: 1000;
-            animation: dash 5s linear forwards;
-        }
-@keyframes dash {
-            to {
-            stroke-dashoffset: 0;
-            }
-        }
-        
-</style>
+        </style>
         <text x="10" y="60" class="text">Me gusta programar, que sepa es diferente</text>
     </svg>
     </p>
